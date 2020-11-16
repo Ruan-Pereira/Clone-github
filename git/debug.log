@@ -1,0 +1,6 @@
+[0816/093817.892:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/121147.571:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[0824/121147.573:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0824/121147.573:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0824/121147.588:ERROR:process_info.cc(359)] UncheckedAllocate
+[1116/144145.905:ERROR:crash_report_database_win.cc(430)] unexpected header
